@@ -19,7 +19,7 @@ void VerificaConexao()
     if (WiFi.status() == WL_CONNECTED)
     {
         Serial.println("Conectado!");
-        }
+    }
     else
     {
         Serial.print("\nFalha ao conectar, pressione o botão WPS no seu roteador ...");

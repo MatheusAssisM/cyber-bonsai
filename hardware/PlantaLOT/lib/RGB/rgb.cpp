@@ -52,9 +52,9 @@ void setColor(String cor)
 	}
 }
 
-void piscarLed()
+void piscarLed(String cor)
 {
-	setColor("blue");
+	setColor(cor);
 	setColor("off");
 }
 
