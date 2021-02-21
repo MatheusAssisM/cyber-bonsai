@@ -55,7 +55,9 @@ void setColor(String cor)
 void piscarLed(String cor)
 {
 	setColor(cor);
+	delay(500);
 	setColor("off");
+	delay(500);
 }
 
 void piscarLedWifi(int loop)
@@ -63,6 +65,8 @@ void piscarLedWifi(int loop)
 	for (int i = 0; i < loop; i++)
 	{
 		setColor("blue");
+		delay(500);
 		setColor("off");
+		delay(500);
 	}
 }
