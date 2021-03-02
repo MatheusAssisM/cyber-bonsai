@@ -1,0 +1,25 @@
+.dashboardContainer{
+    background: var(--background-cont);
+    color: var(--white);
+    margin-top: 1.5rem;
+    margin-right: 2rem;
+    margin-left: 2rem;
+    border-radius: 23px;
+    height: 38rem;
+    box-shadow: 0 0 65px rgba(0, 0, 0, 0.5);
+    /* min-width: 900px; */
+}
+
+.dashboardRow {
+    height: 100%;
+}
+
+.dashboardShortcuts {
+    background: var(--background-short);
+    border-top-right-radius: 23px;
+    display: flex;
+    border-bottom-right-radius: 23px;
+}
+
+
+

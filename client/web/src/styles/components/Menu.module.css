@@ -1,0 +1,12 @@
+.menuContainer {
+    /* border: 2px solid green; */
+    height: 85%;
+    width: 100%;
+    padding: 0.5rem;
+    /* min-width: 100px; */
+
+    margin-top: 2.5rem;
+    margin-bottom: 2rem;
+        
+    border-right: 1px solid var(--background-short);
+}

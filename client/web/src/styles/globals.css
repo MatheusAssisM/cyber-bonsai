@@ -1,0 +1,21 @@
+:root {
+  --white:#fff;
+  --background-cont: #3D3D3D;
+  --background-short: #2F2F2F;
+}
+
+body {
+  background-color: #6c757d;
+}
+
+a {
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+button {
+  cursor: pointer;
+}
