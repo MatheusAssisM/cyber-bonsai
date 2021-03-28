@@ -49,7 +49,7 @@ Para obter exemplos, abra o [twitter](https://twitter.com/do_planta)
 
 ## Roadmap
 
-Consulte os [issues](https://github.com/marceloapd/PlantaloT/issues) para obter uma lista de recursos propostos (e problemas conhecidos).
+Consulte os [issues](https://github.com/AssisDev/cyber-bonsai/issues) para obter uma lista de recursos propostos (e problemas conhecidos).
 
 
 
@@ -60,12 +60,3 @@ As contribuições são o que tornam a comunidade do 'open source' um lugar incr
 ## Licença
 
 Distributed under the MIT License. See `LICENSE` for more information.
-
-
-
-## Contato
-
-Marcelo Assis - [@marceloapda](https://twitter.com/marceloapda) - marcelo.apdassis@gmail.com
-
-Link do Projeto: [https://github.com/marceloapd/PlantaloT](https://github.com/marceloapd/PlantaloT)
-
